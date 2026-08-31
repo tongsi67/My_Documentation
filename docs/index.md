@@ -1,75 +1,29 @@
----
-hide:
-  - navigation
-  - toc
----
+# 🏛️ Welcome to My Digital Portfolio
 
-<!-- Hero Section -->
-<!-- 👇 Replace YOUR_FILE_ID with your Google Drive image file ID -->
-<div class="hero-section has-bg-image" style="background: linear-gradient(135deg, rgba(57,73,171,0.85), rgba(26,35,126,0.9)), url('https://drive.google.com/thumbnail?id=1XpVghCFdPBU_flmhSBTXg3IRLTQ4sQqi&sz=w1600') center/cover no-repeat;" markdown>
-
-
-# 👋 Welcome to My Documentation Site
-
-_A place to document my journey, learning, and projects._
-
-</div>
+Welcome! I am a student at **The Royal Academy**, passionate about astronomy, technology, and hands-on fabrication. This website serves as a living documentation of my projects, academic achievements, and personal growth.
 
 ---
 
-## 🚀 Quick Navigation
+## 🌟 Highlights & Achievements
 
-<div class="card-grid" markdown>
+> *"Documenting learning, one project at a time."*
 
-<div class="card" markdown>
-
-### 🧑‍💻 About Me
-
-Learn more about who I am, my background, education, and skills.
-
-[:octicons-arrow-right-24: Go to About Me](about/index.md)
-
-</div>
-
-<div class="card" markdown>
-
-### 📚 Documentation
-
-Browse my notes, guides, and learning materials organized by topic.
-
-[:octicons-arrow-right-24: View Documentation](documentation/index.md)
-
-</div>
-
-<div class="card" markdown>
-
-### 🏗️ Projects
-
-Explore my project portfolio with detailed documentation for each one.
-
-[:octicons-arrow-right-24: See Projects](projects/index.md)
-
-</div>
-
-</div>
+* **🌌 Astronomy & Exoplanet Research:** Identified candidate exoplanets using the NASA Exoplanet Archive and scheduled telescope targeting with the Swarthmore Transit Finder.
+* **🛠️ Fab Lab & Technical Skills:** Experience with digital fabrication, documentation using MkDocs/GitHub Pages, and open-source development.
+* **🏆 Royal Academy Milestones:** [Add a specific academic, athletic, or leadership achievement here]
 
 ---
 
-## 📖 How to Use This Site
+## 📂 Explore My Work
 
-| Tab | What You'll Find |
-|-----|-----------------|
-| **Home** | This welcome page with quick links |
-| **About Me** | My introduction, skills, and contact info |
-| **Documentation** | Notes and guides on various topics |
-| **Projects** | Detailed documentation for each project |
+| Section | What You Will Find |
+| :--- | :--- |
+| **About Me** | My background, personal goals, and journey at the Royal Academy. |
+| **Documentation** | Step-by-step guides, including exoplanet targeting and technical tutorials. |
+| **Projects** | Showcase of completed projects, prototypes, and research logs. |
 
-!!! tip "For Students Using This Template"
+---
 
-    This site is built with **MkDocs Material**.  
-    Everything is written in **Markdown** — just edit the `.md` files in the `docs/` folder!  
-    Check the [README](https://github.com/yourusername/yourrepo) for setup instructions.
-    if you want to test in your local machine, use this command: 
-    - pip install mkdocs-material
-    - mkdocs serve --livereload
-    - Open http://127.0.0.1:8000
+## 📬 Connect With Me
+
+Feel free to explore my documentation or reach out through my GitHub profile!
