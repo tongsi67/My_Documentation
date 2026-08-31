@@ -140,6 +140,10 @@ extra:
 
 # ── Navigation ───────────────────────────────────────────────
 nav:
+  - Home: index.md
+  - About Me: about/index.md
+  - Exoplanet Target Guide: exoplanet-guide.md   # ← Make sure this line is here
   - Documentation:
       - Overview: documentation/index.md
-      - Exoplanet Target Guide: exoplanet-guide.md
+  - Projects:
+      - Overview: projects/index.md
