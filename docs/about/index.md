@@ -4,85 +4,15 @@ title: About Me
 
 # About Me
 
-<!-- ============================================================
-     INSTRUCTIONS: Replace placeholder text below with your info.
-     To use a Google Drive profile photo, see the image section.
-     ============================================================ -->
 
-<div class="profile-section" markdown>
+Hey, I’m Tashi. I’m currently in Grade 10 at The Royal Academy. I’m interested in a bunch of different things, such as maths, science, astronomy, sports, and just learning random things whenever something catches my attention.
 
-<!-- ── Profile Photo ─────────────────────────────────────────
-     To embed a photo from Google Drive:
-     1. Upload your photo to Google Drive
-     2. Right-click → Share → "Anyone with the link"
-     3. Copy the FILE ID from the share link
-        (e.g., https://drive.google.com/file/d/FILE_ID/view)
-     4. Replace YOUR_FILE_ID below
-     ──────────────────────────────────────────────────────── -->
+I made this website as a place to put together some of the things I’ve been working on, learning, and doing. It’s kind of a collection of my experiences rather than a super formal portfolio.
 
-<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1u1_Mebw0WiAgEy98OZ64ls9IW0oCBlAh&sz=w400" alt="Profile Photo">
+I’ve tried quite a few different things over the years, from sports and competitions to projects, science, and random things I’ve gotten curious about. Some worked out, some definitely didn’t, but I’ve learned something from most of them. I thought it would be nice to have all of that in one place instead of having it scattered everywhere.
 
+You’ll find my different experiences and achievements here, including projects, competitions, activities, and some of the things I’ve worked on over time. I’ll also be adding a few tutorials for **Panoptes**, especially things I’ve learned while using it and working with citizen science projects.
 
-<div class="profile-info" markdown>
+I’ll keep updating this website as I do more things, so it’s probably never going to be completely finished. And honestly, that’s kind of the point.
 
-## Your Name Here
-
-**Title / Role** — student
-
-> _"Add your favorite quote or personal tagline here."_
-
-A short paragraph about yourself. Describe who you are, what you're passionate about,
-and what drives you. Keep it personal and authentic — this is your space!
-
-</div>
-
-</div>
-
-<hr class="section-divider">
-
-## 🎓 Education
-
-| Year | Degree / Grade | School |
-|------|-----------------|-------------|
-| 2024 – Present | B.Sc. in Your Major | Your University |
-| 2020 – 2024 | Higher Secondary | Your School/College |
-
-## 🛠️ Skills
-
-<div markdown>
-
-<span class="skill-badge">Python</span>
-<span class="skill-badge">JavaScript</span>
-<span class="skill-badge">Arduino</span>
-<span class="skill-badge">MkDocs</span>
-<span class="skill-badge">Git & GitHub</span>
-<span class="skill-badge">3D Printing</span>
-<span class="skill-badge">CAD Design</span>
-<span class="skill-badge">Electronics</span>
-
-</div>
-
-!!! tip "Customize Your Skills"
-
-    Replace the badges above with your own skills.  
-    Just copy-paste a `<span class="skill-badge">Your Skill</span>` line and change the text.
-
-<hr class="section-divider">
-
-## 🌟 Interests
-
-- 🔬 **Research Area 1** — Brief description of your interest
-- 🎨 **Creative Hobby** — Brief description
-- 🏃 **Sports / Activity** — Brief description
-- 📚 **Reading / Learning** — Brief description
-
-<hr class="section-divider">
-
-## 📬 Contact
-
-| Platform | Link |
-|----------|------|
-| :fontawesome-brands-github: GitHub | [yourusername](https://github.com/yourusername) |
-| :fontawesome-brands-linkedin: LinkedIn | [Your Name](https://linkedin.com/in/yourusername) |
-| :material-email: Email | [your.email@example.com](mailto:your.email@example.com) |
-| :material-web: Website | [yourwebsite.com](https://yourwebsite.com) |
+So yeah, have a look around. Hopefully you find something interesting!
