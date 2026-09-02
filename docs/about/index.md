@@ -4,6 +4,7 @@ title: About Me
 
 # About Me
 
+![My Profile Picture](../assets/profile.jpg)
 
 Hey, I’m Tashi. I’m currently in Grade 10 at The Royal Academy. I’m interested in a bunch of different things, such as maths, science, astronomy, sports, and just learning random things whenever something catches my attention.
 
